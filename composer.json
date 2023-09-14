@@ -1,0 +1,19 @@
+{
+    "name": "dss/seaslog",
+    "description": "php8seaslog",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dss\\Seaslog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "董松松",
+            "email": "song.dong@ruigushop.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
